@@ -25,8 +25,16 @@ Principais pontos abordados nesse desafio:
 - Object Destructuring
 - Modularização,
 - Assincronismo,
-- Roteamento dentro da aplicação,
+- Roteamento dentro da aplicação,  
+
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_03_52.png)   
+
 - SPA(Single page application),
+
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_06_32.png)  
+
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_10_40.png)  
+
 - Json e sua utilização,
 - Promises,
 - Promises with Fetch,
@@ -39,9 +47,9 @@ Principais pontos abordados nesse desafio:
 
 O resultado final desse desafio deve ser algo em torno de:
 
-![Project´s preview]()  
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_03_32.png)  
 
-![Project´s preview]()  
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_04_41.png)  
 
 <br>
 
