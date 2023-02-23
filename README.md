@@ -27,13 +27,13 @@ Principais pontos abordados nesse desafio:
 - Assincronismo,
 - Roteamento dentro da aplicação,  
 
-![Page's routing](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_03_52.png)   
+![Page's routing](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/routes.png)   
 
 - SPA(Single page application),
 
-![Traditional Page](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_06_32.png)  
+![Traditional Page](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/traditionalPage.png)  
 
-![SPA](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_10_40.png)  
+![SPA](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/SPA.png)  
 
 - Json e sua utilização,
 - Promises,
@@ -47,9 +47,9 @@ Principais pontos abordados nesse desafio:
 
 O resultado final desse desafio deve ser algo em torno de:
 
-![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_03_32.png)  
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/project_preview1.png)  
 
-![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/Adicionando%20um%20servidor%20local%20e%20simples%20com%20NodeJS%20_%20Rocketseat%20-%20Google%20Chrome%2023_02_2023%2010_04_41.png)  
+![Project´s preview](https://github.com/Clara-Pacheco/SPA_project_ExplorerN6/blob/main/assets/project_preview2.png)  
 
 <br>
 
