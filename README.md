@@ -53,9 +53,7 @@ O resultado final desse desafio deve ser algo em torno de:
 
 <br>
 
-## 🧪 Tecnologias | HTML , CSS e Javascript
----
-<br>
+## 🧪 Tecnologias | HTML , CSS e Javascript  
 
 ## 📜 Descrição
 
